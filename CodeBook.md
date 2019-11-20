@@ -1,4 +1,4 @@
-$Introduction$
+#Introduction
 
 This dataset provides the following variables:
 
@@ -25,7 +25,7 @@ This dataset provides the following variables:
   
 For the non-"Mag" variables, there is a XYZ component. Which comes from data collected by having the participants hold a Samsung phone with radial data collection abilities at their waist while performing the activites. 
 
-$CodeBook$
+#CodeBook
 
 1. Combined the files for "test" and "train". Each "complete" file was made up of the following:
   * x_data(Phone collected data), subject_data(identifies the subjects), and y_data(Activity)
